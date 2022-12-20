@@ -11,6 +11,7 @@ In this project I have refreshed on JavaScript basics
 - Object creation and their properties in ES6
 - Iterators and for-of loops
 
+All files was  executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 
 ## Resources
 - [Understanding JS template literals](https://www.youtube.com/watch?v=NgF9-pdTDGs)
